@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello olleh
+chmod 354 hello
