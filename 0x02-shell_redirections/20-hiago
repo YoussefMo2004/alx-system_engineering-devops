@@ -1,2 +1,2 @@
 #!/bin/bash
-tar "c" "C" -delete
+tar -d "Cc"
