@@ -1,2 +1,2 @@
 #!/bin/bash
-tar -d "Cc"
+tr -d "cC"
